@@ -1,7 +1,8 @@
 {
   "homepage": "https://reimhinn.github.io/",
   "name": "enigme-1",
-  "private": true,
+  "main": "index.js",
+  "private": false,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
