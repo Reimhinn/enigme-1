@@ -1,7 +1,8 @@
 {
+  "homepage": "https://reimhinn.github.io/enigme-1/",
   "name": "enigme-1",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
