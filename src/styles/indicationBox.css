@@ -1,0 +1,12 @@
+.indication-box {
+    cursor: pointer;
+    opacity: 1;
+    transition: all 1s;
+    position: absolute;
+    border: 1px solid black;
+}
+
+
+.indication-box:hover {
+    opacity: 1!important;
+}
