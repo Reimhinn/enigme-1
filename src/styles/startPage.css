@@ -1,15 +1,4 @@
-body, html {
-    background-color: black;
-    margin: 0;
-    padding: 0;
-    height: 100%;
-}
-
 #start-page {
     display: flex;
     align-items: center;
-}
-
-#start-page-title {
-    color: white;
 }

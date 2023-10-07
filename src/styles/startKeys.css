@@ -13,6 +13,7 @@
     top: 2vh;
     width: 20vw;
     display: flex;
+    transition: all 1s;
 }
 
 .white {
